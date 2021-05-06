@@ -26,7 +26,7 @@ Same goes (for example) for 1 / 7. While normaly we would get aprox 0.1428571428
 
 Period can become quite long for larger numbers. For example 1 / 16519 which is aprox 0.000060536352 in actuality is equal to what you see below
 
-<img src="readMeImages/img4.png"> </img>
+<img src="readMeImages/img3.png"> </img>
 
 In reality, decimal expression has a period of 2753 digits. 
 
